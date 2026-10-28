@@ -1,0 +1,17 @@
+{
+  "name": "zaard-tracker-bot",
+  "version": "1.0.0",
+  "description": "Telegram Tracker Bot para ZAARD Innovation",
+  "main": "ZaardBot.js",
+  "scripts": {
+    "start": "node ZaardBot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
